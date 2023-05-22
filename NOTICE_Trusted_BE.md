@@ -1,12 +1,12 @@
 Copyright 2017 European Commission
 
-Licensed under the EUPL, Version 1.2 or – as soon they will be approved by the European Commission - subsequent versions of the EUPL (the "Licence");
-You may not use this work except in compliance with the Licence.
-You may obtain a copy of the Licence at:
+Licensed under the EUPL, Version 1.2 or – as soon they will be approved by the European Commission - subsequent versions of the EUPL (the "Licence");<br/>
+You may not use this work except in compliance with the Licence.<br/>
+You may obtain a copy of the Licence at:<br/>
 
-	https://joinup.ec.europa.eu/software/page/eupl
+&ensp;&ensp;&ensp;&ensp;[https://joinup.ec.europa.eu/software/page/eupl](https://joinup.ec.europa.eu/software/page/eupl)
 
-Unless required by applicable law or agreed to in writing, software distributed under the Licence is distributed on an "AS IS" basis,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.See the Licence for the specific language governing permissions and limitations under the Licence.
+Unless required by applicable law or agreed to in writing, software distributed under the Licence is distributed on an "AS IS" basis,<br/>WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<br/>See the Licence for the specific language governing permissions and limitations under the Licence.
 
 This product includes dynamically linked software developed by third parties which is provided under their respective licences:
 
