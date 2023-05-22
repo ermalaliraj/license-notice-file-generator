@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<licenseSummary>
+    <dependencies>
+        <dependency>
+            <groupId>antlr</groupId>
+            <artifactId>antlr</artifactId>
+            <version>2.7.7</version>
+            <licenses>
+                <license>
+                    <name>BSD License</name>
+                    <url>http://www.antlr.org/license.html</url>
+                    <distribution>repo</distribution>
+                    <file>bsd license - license.html</file>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>asm</groupId>
+            <artifactId>asmx</artifactId>
+            <version>3.3.1</version>
+            <licenses>
+                <license>
+                    <name>BSD</name>
+                    <url>http://asm.objectweb.org/license.html</url>
+                </license>
+                <license>
+                    <name>GENERAL PUBLIC LICENSE, version 3 (GPL-3.0)</name>
+                    <url>http://www.gnu.org/licenses/gpl.txt</url>
+                    <file>general public license, version 3 (gpl-3.0) - gpl.txt</file>
+                </license>
+                <license>
+                    <name>GNU LESSER GENERAL PUBLIC LICENSE, version 3 (LGPL-3.0)</name>
+                    <url>http://www.gnu.org/licenses/lgpl.txt</url>
+                    <file>gnu lesser general public license, version 3 (lgpl-3.0) - lgpl.txt</file>
+                </license>
+            </licenses>
+        </dependency>
+    </dependencies>
+</licenseSummary>

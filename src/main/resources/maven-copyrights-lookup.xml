@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<copyrights-lookup>
+    <!-- Example:
+    <artifact>
+        &lt;!&ndash; Mandatory one entry per <artifact> tag &ndash;&gt;
+        <groupId>org.springframework.security</groupId>
+
+        &lt;!&ndash; Allows multiple entries per <artifact> tag, min is 0 &ndash;&gt;
+        <artifactId>spring-security-config</artifactId>
+
+        &lt;!&ndash; Allows multiple entries per <artifact> tag, min is 0 &ndash;&gt;
+        <version>5.7.2</version>
+
+        &lt;!&ndash; One optional entry per <artifact> tag &ndash;&gt;
+        <url>https://spring.io/projects/spring-security</url>
+
+        &lt;!&ndash; Allows multiple entries per <artifact> tag, min is 0 &ndash;&gt;
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+        &lt;!&ndash; Allows multiple entries per <artifact> tag, min is 1 &ndash;&gt;
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+
+    <artifact>
+        <groupId></groupId>
+        <artifactId></artifactId>
+        <version></version>
+        <license>
+            <name></name>
+            <url></url>
+        </license>
+        <copyright></copyright>
+    </artifact>
+    -->
+
+    <artifact>
+        <groupId>cglib</groupId>
+        <artifactId>cglib</artifactId>
+        <version>2.2.2</version>
+        <url>http://cglib.sourceforge.net/</url>
+        <license>
+            <name>Apache License 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2000-2005 INRIA, France Telecom</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.google.code.gson</groupId>
+        <artifactId>gson</artifactId>
+        <version>2.8.2</version>
+        <url>https://github.com/google/gson/gson</url>
+        <license>
+            <name>Apache License 2.0</name>
+        </license>
+        <copyright>Copyright 2008 Google Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.google.errorprone</groupId>
+        <artifactId>error_prone_annotations</artifactId>
+        <version>2.11.0</version>
+        <url>https://errorprone.info/error_prone_annotations</url>
+        <license>
+            <name>Apache License 2.0</name>
+        </license>
+        <copyright>Copyright 2015 The Error Prone</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.hibernate.validator</groupId>
+        <artifactId>hibernate-validator</artifactId>
+        <version>6.2.3.Final</version>
+        <url>http://hibernate.org/validator/hibernate-validator</url>
+        <license>
+            <name>Apache License 2.0</name>
+        </license>
+        <copyright>Adam Stawicki</copyright>
+        <copyright>Ahmed Al Hafoudh</copyright>
+        <copyright>Alaa Nassef</copyright>
+        <copyright>Andrey Derevyanko</copyright>
+        <copyright>Andrey Rodionov</copyright>
+        <copyright>Asutosh Pandya</copyright>
+        <copyright>Benson Margulies</copyright>
+        <copyright>Brent Douglas</copyright>
+        <copyright>Carlos Vara</copyright>
+        <copyright>Carlo de Wolf</copyright>
+        <copyright>Chris Beckey</copyright>
+        <copyright>Christian Ivan</copyright>
+        <copyright>Dag Hovland</copyright>
+        <copyright>Damir Alibegovic</copyright>
+        <copyright>Dario Seidl</copyright>
+        <copyright>Davide D'Alto</copyright>
+        <copyright>Davide Marchignoli</copyright>
+        <copyright>Denis Tiago</copyright>
+        <copyright>Doug Lea</copyright>
+        <copyright>Emmanuel Bernard</copyright>
+        <copyright>Efthymis Sarbanis</copyright>
+        <copyright>Federico</copyright>
+        <copyright>Federico Mancini</copyright>
+        <copyright>Gavin King</copyright>
+        <copyright>George Gastaldi</copyright>
+        <copyright>Gerhard Petracek</copyright>
+        <copyright>Guillaume Husta</copyright>
+        <copyright>Guillaume Smet</copyright>
+        <copyright>Gunnar Morling</copyright>
+        <copyright>Hardy Ferentschik</copyright>
+        <copyright>Henno Vermeulen</copyright>
+        <copyright>Hillmer Chona</copyright>
+        <copyright>Jan-Willem Willebrands</copyright>
+        <copyright>Jason T. Greene</copyright>
+        <copyright>Jesper Preuss</copyright>
+        <copyright>Jiri Bilek</copyright>
+        <copyright>Julien Furgerot</copyright>
+        <copyright>Julien May</copyright>
+        <copyright>Juraci Krohling</copyright>
+        <copyright>Justin Nauman</copyright>
+        <copyright>Kathryn Killebrew</copyright>
+        <copyright>Kazuki Shimizu</copyright>
+        <copyright>Kevin Pollet</copyright>
+        <copyright>Khalid Alqinyah</copyright>
+        <copyright>Lee KyoungIl</copyright>
+        <copyright>Leonardo Loch Zanivan</copyright>
+        <copyright>Lucas Pouzac</copyright>
+        <copyright>Lukas Niemeier</copyright>
+        <copyright>Mark Hobson</copyright>
+        <copyright>Marko Bekhta</copyright>
+        <copyright>Matthias Kurz</copyright>
+        <copyright>Mert Çalişkan</copyright>
+        <copyright>Michal Fotyga</copyright>
+        <copyright>Nicola Ferraro</copyright>
+        <copyright>Nicolas François</copyright>
+        <copyright>Paolo Perrotta</copyright>
+        <copyright>Pete Muir</copyright>
+        <copyright>Rob Dickinson</copyright>
+        <copyright>Sanne Grinovero</copyright>
+        <copyright>Sebastian Bayerl</copyright>
+        <copyright>Shahram Goodarzi</copyright>
+        <copyright>Shane Bryzak</copyright>
+        <copyright>Shelly McGowan</copyright>
+        <copyright>Sjaak Derksen</copyright>
+        <copyright>Steve Ebersole</copyright>
+        <copyright>Strong Liu</copyright>
+        <copyright>Tadhg Pearson</copyright>
+        <copyright>Takashi Aoe</copyright>
+        <copyright>Tomaz Cerar</copyright>
+        <copyright>Tommy Johansen</copyright>
+        <copyright>Victor Rezende dos Santos</copyright>
+        <copyright>Willi Schönborn</copyright>
+        <copyright>Xavier Sosnovsky</copyright>
+        <copyright>Yanming Zhou</copyright>
+        <copyright>Yoann Rodière</copyright>
+        <copyright>Footer</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.vaadin.external.google</groupId>
+        <artifactId>android-json</artifactId>
+        <version>0.0.20131108.vaadin1</version>
+        <url>http://developer.android.com/sdk</url>
+        <license>
+            <name>Apache License 2.0</name>
+        </license>
+        <copyright>Copyright (C) 2010 The Android Open Source Project</copyright>
+    </artifact>
+    <artifact>
+        <groupId>jakarta.validation</groupId>
+        <artifactId>jakarta.validation-api</artifactId>
+        <version>2.0.2</version>
+        <url>https://beanvalidation.org</url>
+        <license>
+            <name>Apache License 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2019 Eclipse Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.github.ulisesbocchio</groupId>
+        <artifactId>jasypt-spring-boot</artifactId>
+        <artifactId>jasypt-spring-boot-starter</artifactId>
+        <version>3.0.3</version>
+        <url>https://github.com/ulisesbocchio/jasypt-spring-boot/jasypt-spring-boot</url>
+        <license>
+            <name>Apache License 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2021 Sergio Ulises Bocchio</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-collections4</artifactId>
+        <version>4.4</version>
+        <url>https://commons.apache.org/proper/commons-collections/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2001-2019 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>commons-fileupload</groupId>
+        <artifactId>commons-fileupload</artifactId>
+        <version>1.4</version>
+        <url>http://commons.apache.org/proper/commons-fileupload/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2002-2018 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>commons-io</groupId>
+        <artifactId>commons-io</artifactId>
+        <version>2.11.0</version>
+        <url>https://commons.apache.org/proper/commons-io/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2002-2021 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-lang3</artifactId>
+        <version>3.11</version>
+        <url>https://commons.apache.org/proper/commons-lang/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2001-2020 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-math3</artifactId>
+        <version>3.6.1</version>
+        <url>http://commons.apache.org/proper/commons-math/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2001-2016 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-text</artifactId>
+        <version>1.9</version>
+        <url>https://commons.apache.org/proper/commons-text</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2014-2020 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-api</artifactId>
+        <version>2.17.2</version>
+        <url>https://logging.apache.org/log4j/2.x/log4j-api/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 1999-2021 Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-core</artifactId>
+        <version>2.17.2</version>
+        <url>https://logging.apache.org/log4j/2.x/log4j-core/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 1999-2021 Apache Software Foundation</copyright>
+        <copyright>Copyright 2005-2006 Tim Fennell</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-jul</artifactId>
+        <version>2.17.2</version>
+        <url>https://logging.apache.org/log4j/2.x/log4j-jul/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 1999-2021 Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-slf4j-impl</artifactId>
+        <version>2.17.2</version>
+        <url>https://logging.apache.org/log4j/2.x/log4j-slf4j-impl/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 1999-2021 Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-web</artifactId>
+        <version>2.17.2</version>
+        <url>https://logging.apache.org/log4j/2.x/log4j-web/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 1999-2021 Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi</artifactId>
+        <version>4.1.2</version>
+        <url>http://poi.apache.org/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2003-2020 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.tika</groupId>
+        <artifactId>tika-core</artifactId>
+        <version>1.28.4</version>
+        <url>http://tika.apache.org/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2007-2021 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.velocity</groupId>
+        <artifactId>velocity-engine-core</artifactId>
+        <version>2.0</version>
+        <url>http://velocity.apache.org/engine/devel/velocity-engine-core/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (C) 2000-2007 The Apache Software Foundation</copyright>
+        <copyright>Copyright 2006 Sun Microsystems, Inc</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.velocity.tools</groupId>
+        <artifactId>velocity-tools-generic</artifactId>
+        <version>3.0</version>
+        <url>https://velocity.apache.org/tools/devel/velocity-tools-generic/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (C) 2000-2007 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.assertj</groupId>
+        <artifactId>assertj-core</artifactId>
+        <version>3.22.0</version>
+        <url>https://assertj.github.io/doc/assertj-core/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2012-2022 the original author or authors.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>net.bytebuddy</groupId>
+        <artifactId>byte-buddy</artifactId>
+        <version>1.12.9</version>
+        <url>https://bytebuddy.net/byte-buddy</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2014 - current.year Rafael Winterhalter</copyright>
+    </artifact>
+    <artifact>
+        <groupId>net.bytebuddy</groupId>
+        <artifactId>byte-buddy-agent</artifactId>
+        <version>1.12.9</version>
+        <url>https://bytebuddy.net/byte-buddy-agent</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2014 - current.year Rafael Winterhalter</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.fasterxml</groupId>
+        <artifactId>classmate</artifactId>
+        <version>1.5.1</version>
+        <url>https://github.com/FasterXML/java-classmate</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Java ClassMate library was originally written by Tatu Saloranta (tatu.saloranta@iki.fi)</copyright>
+        <copyright>Other developers who have contributed code are: Brian Langel</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.google.guava</groupId>
+        <artifactId>guava</artifactId>
+        <version>31.1-jre</version>
+        <url>https://github.com/google/guava</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (C) 2008 The Guava Authors</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.jboss</groupId>
+        <artifactId>jandex</artifactId>
+        <version>2.4.2.Final</version>
+        <url>http://www.jboss.org/jandex</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2013, 2014, 2020, 2021 Red Hat, Inc., and individual contributors</copyright>
+        <copyright>Copyright (C) 2004-2010 Alex Gorbatchev</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.liquibase</groupId>
+        <artifactId>liquibase-core</artifactId>
+        <version>4.12.0</version>
+        <url>http://www.liquibase.org/liquibase-root/liquibase-dist</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2008 Alexander Beider &amp; Stephen P. Morse</copyright>
+        <copyright>Copyright 2002-2020 The Apache Software Foundation</copyright>
+        <copyright>Copyright (c) 2005-2017 Schlichtherle IT Services</copyright>
+        <copyright>Copyright (c) 2002 Kevin Atkinson (kevina@gnu.org)</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.objenesis</groupId>
+        <artifactId>objenesis</artifactId>
+        <version>3.2</version>
+        <url>http://objenesis.org/objenesis</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2006-2021 Joe Walnes, Henri Tremblay, Leonardo Mesquita</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.yaml</groupId>
+        <artifactId>snakeyaml</artifactId>
+        <version>1.30</version>
+        <url>https://bitbucket.org/snakeyaml/snakeyaml</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2008, SnakeYAML</copyright>
+    </artifact>
+
+    <artifact>
+        <groupId>org.springframework.restdocs</groupId>
+        <artifactId>spring-restdocs-core</artifactId>
+        <artifactId>spring-restdocs-mockmvc</artifactId>
+        <version>2.0.6.RELEASE</version>
+        <url>https://github.com/spring-projects/spring-restdocs</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-aop</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-aspects</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-beans</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-jcl</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-context</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-context-support</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-core</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.data</groupId>
+        <artifactId>spring-data-commons</artifactId>
+        <version>2.7.1</version>
+        <url>https://www.spring.io/spring-data/spring-data-commons</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2010-2021 Pivotal Software, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.data</groupId>
+        <artifactId>spring-data-jpa</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-data-jpa</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2011-2019 Pivotal Software, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-expression</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-jdbc</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-orm</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-test</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-tx</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-web</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-webmvc</artifactId>
+        <version>5.3.21</version>
+        <url>https://github.com/spring-projects/spring-framework</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.sun.xml.fastinfoset</groupId>
+        <artifactId>FastInfoset</artifactId>
+        <version>1.2.15</version>
+        <url>http://fi.java.net</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2017 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-actuator</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-actuator-autoconfigure</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-autoconfigure</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-actuator</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-aop</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-data-jpa</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-jdbc</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-json</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-log4j2</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-security</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-test</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-tomcat</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-validation</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-test</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-test-autoconfigure</artifactId>
+        <version>2.7.1</version>
+        <url>https://spring.io/projects/spring-boot</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.security</groupId>
+        <artifactId>spring-security-config</artifactId>
+        <version>5.7.2</version>
+        <url>https://spring.io/projects/spring-security</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.security</groupId>
+        <artifactId>spring-security-core</artifactId>
+        <version>5.7.2</version>
+        <url>https://spring.io/projects/spring-security</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.security</groupId>
+        <artifactId>spring-security-crypto</artifactId>
+        <version>5.7.2</version>
+        <url>https://spring.io/projects/spring-security</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.security</groupId>
+        <artifactId>spring-security-test</artifactId>
+        <version>5.7.2</version>
+        <url>https://spring.io/projects/spring-security</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.springframework.security</groupId>
+        <artifactId>spring-security-web</artifactId>
+        <version>5.7.2</version>
+        <url>https://spring.io/projects/spring-security</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012-2022 Pivotal, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.tomcat</groupId>
+        <artifactId>tomcat-annotations-api</artifactId>
+        <version>9.0.64</version>
+        <url>https://tomcat.apache.org/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 1999-2022 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.tomcat.embed</groupId>
+        <artifactId>tomcat-embed-core</artifactId>
+        <version>9.0.64</version>
+        <url>https://tomcat.apache.org/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2003-2009 Sun Microsystems, Inc.</copyright>
+        <copyright>(c) Copyright International Business Machines Corporation 2002</copyright>
+        <copyright>Copyright (c) 2009-2017 Oracle and/or its affiliates</copyright>
+        <copyright>Copyright (c) 2009-2013 Oracle and/or its affiliates</copyright>
+        <copyright>Copyright (c) 1999-2022, Apache Software Foundation</copyright>
+        <copyright>Copyright 2003-2007 Sun Microsystems, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.tomcat.embed</groupId>
+        <artifactId>tomcat-embed-el</artifactId>
+        <version>9.0.64</version>
+        <url>https://tomcat.apache.org/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 1999-2022 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.tomcat.embed</groupId>
+        <artifactId>tomcat-embed-jasper</artifactId>
+        <version>9.0.64</version>
+        <url>https://tomcat.apache.org/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 1999-2022 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.tomcat.embed</groupId>
+        <artifactId>tomcat-embed-websocket</artifactId>
+        <version>9.0.64</version>
+        <url>https://tomcat.apache.org/</url>
+        <license>
+            <name>Apache License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 1999-2022 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.jboss.logging</groupId>
+        <artifactId>jboss-logging</artifactId>
+        <version>3.4.1.Final</version>
+        <url>http://www.jboss.org</url>
+        <license>
+            <name>Apache License, version 2.0</name>
+        </license>
+        <copyright>Copyright 2010-2020 Red Hat, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.latencyutils</groupId>
+        <artifactId>LatencyUtils</artifactId>
+        <version>2.0.3</version>
+        <url>http://latencyutils.github.io/LatencyUtils/</url>
+        <license>
+            <name>BSD 2-Clause</name>
+        </license>
+        <copyright>Copyright (c) 2012, 2013, 2014 Gil Tene</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.hamcrest</groupId>
+        <artifactId>hamcrest</artifactId>
+        <version>2.2</version>
+        <url>http://hamcrest.org/JavaHamcrest/</url>
+        <license>
+            <name>BSD-3-Clause</name>
+        </license>
+        <copyright>Copyright (c) 2000-2015 www.hamcrest.org</copyright>
+    </artifact>
+    <artifact>
+        <groupId>antlr</groupId>
+        <artifactId>antlr</artifactId>
+        <version>2.7.7</version>
+        <url>http://www.antlr.org/</url>
+        <license>
+            <name>BSD License</name>
+        </license>
+        <copyright>Copyright (c) 2012-2017 The ANTLR Project</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.atlassian.botocss</groupId>
+        <artifactId>botocss-core</artifactId>
+        <version>6.5</version>
+        <url>https://bitbucket.org/atlassian/botocss</url>
+        <license>
+            <name>BSD License</name>
+        </license>
+        <copyright>Copyright (c) 2011-2014 Atlassian</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.antlr</groupId>
+        <artifactId>antlr-runtime</artifactId>
+        <version>3.5.2</version>
+        <url>http://www.antlr.org</url>
+        <license>
+            <name>BSD licence</name>
+        </license>
+        <copyright>Copyright (c) 2012-2017 The ANTLR Project</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.antlr</groupId>
+        <artifactId>antlr</artifactId>
+        <version>3.5.2</version>
+        <url>http://antlr.org/antlr</url>
+        <license>
+            <name>BSD licence</name>
+        </license>
+        <copyright>Copyright (c) 2012-2017 The ANTLR Project</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.antlr</groupId>
+        <artifactId>ST4</artifactId>
+        <version>4.0.8</version>
+        <url>http://www.stringtemplate.org</url>
+        <license>
+            <name>BSD licence</name>
+        </license>
+        <copyright>Copyright (c) 2012-2017 The ANTLR Project</copyright>
+    </artifact>
+    <artifact>
+        <groupId>asm</groupId>
+        <artifactId>asm</artifactId>
+        <version>3.3.1</version>
+        <url>http://asm.objectweb.org/asm/</url>
+        <license>
+            <name>BSD</name>
+        </license>
+        <copyright>Copyright (c) 2000-2011 INRIA, France Telecom</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.hdrhistogram</groupId>
+        <artifactId>HdrHistogram</artifactId>
+        <version>2.1.12</version>
+        <url>http://hdrhistogram.github.io/HdrHistogram/</url>
+        <license>
+            <name>BSD-2-Clause</name>
+        </license>
+        <copyright>Copyright (c) 2012, 2013, 2014, 2015, 2016 Gil Tene</copyright>
+        <copyright>Copyright (c) 2014 Michael Barker</copyright>
+        <copyright>Copyright (c) 2014 Matt Warren</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.ow2.asm</groupId>
+        <artifactId>asm</artifactId>
+        <version>9.1</version>
+        <url>http://asm.ow2.io/</url>
+        <license>
+            <name>BSD-3-Clause</name>
+        </license>
+        <copyright>Copyright (c) 2000-2011 INRIA, France Telecom</copyright>
+        <copyright>Copyright (c) 1999-2009, OW2 Consortium &lt;https://www.ow2.org/&gt;</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.glassfish.web</groupId>
+        <artifactId>javax.el</artifactId>
+        <version>2.2.6</version>
+        <url>http://uel.java.net</url>
+        <license>
+            <name>CDDL 1.1</name>
+        </license>
+        <copyright>Copyright (c) 1997-2013 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>javax.el</groupId>
+        <artifactId>javax.el-api</artifactId>
+        <version>3.0.0</version>
+        <url>http://uel-spec.java.net</url>
+        <license>
+            <name>CDDL 1.1</name>
+        </license>
+        <copyright>Copyright (c) 1997-2013 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>javax.servlet</groupId>
+        <artifactId>javax.servlet-api</artifactId>
+        <version>4.0.0</version>
+        <url>https://javaee.github.io/servlet-spec/</url>
+        <license>
+            <name>CDDL 1.1</name>
+        </license>
+        <copyright>Copyright (c) 1997-2017 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>javax</groupId>
+        <artifactId>javaee-api</artifactId>
+        <version>8.0.1</version>
+        <url>http://java.net/javaee-api/</url>
+        <license>
+            <name>CDDL 1.1</name>
+        </license>
+        <copyright>Copyright (c) 2017 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.sun.istack</groupId>
+        <artifactId>istack-commons-runtime</artifactId>
+        <version>3.0.7</version>
+        <url>http://java.net/istack-commons/istack-commons-runtime/</url>
+        <license>
+            <name>CDDL 1.1</name>
+        </license>
+        <copyright>Copyright (c) 1997-2018 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>javax.xml.bind</groupId>
+        <artifactId>jaxb-api</artifactId>
+        <version>2.3.1</version>
+        <url>https://github.com/javaee/jaxb-spec/jaxb-api</url>
+        <license>
+            <name>CDDL 1.1</name>
+        </license>
+        <copyright>Copyright (c) 2010-2011 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.glassfish.jaxb</groupId>
+        <artifactId>jaxb-runtime</artifactId>
+        <version>2.3.1</version>
+        <url>http://jaxb.java.net/jaxb-runtime-parent/jaxb-runtime</url>
+        <license>
+            <name>CDDL 1.1</name>
+        </license>
+        <copyright>Copyright (c) 2005-2018 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.glassfish.jaxb</groupId>
+        <artifactId>txw2</artifactId>
+        <version>2.3.1</version>
+        <url>http://jaxb.java.net/jaxb-txw-parent/txw2</url>
+        <license>
+            <name>CDDL 1.1</name>
+        </license>
+        <copyright>Copyright (c) 2005-2018 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>javax.activation</groupId>
+        <artifactId>javax.activation-api</artifactId>
+        <version>1.2.0</version>
+        <url>http://java.net/all/javax.activation-api/</url>
+        <license>
+            <name>CDDL-1.0</name>
+        </license>
+        <copyright>Copyright (c) 1997-2017 Oracle and/or its affiliates</copyright>
+        <copyright>Copyright (c) 1989, 1991 Free Software Foundation, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.sun.mail</groupId>
+        <artifactId>javax.mail</artifactId>
+        <version>1.6.2</version>
+        <url>http://javaee.github.io/javamail/javax.mail</url>
+        <license>
+            <name>CDDL 1.1</name>
+        </license>
+        <copyright>Copyright (c) 1997-2018 Oracle and/or its affiliates</copyright>
+        <copyright>Copyright (c) 2010-2017 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>javax.activation</groupId>
+        <artifactId>activation</artifactId>
+        <version>1.1</version>
+        <url>http://java.sun.com/products/javabeans/jaf/index.jsp</url>
+        <license>
+            <name>CDDL-1.0</name>
+        </license>
+        <copyright>Copyright (c) 1997-2017 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.jvnet.staxex</groupId>
+        <artifactId>stax-ex</artifactId>
+        <version>1.8</version>
+        <url>http://stax-ex.java.net/</url>
+        <license>
+            <name>CDDL 1.1</name>
+        </license>
+        <copyright>Copyright (c) 2017 Oracle and/or its affiliates</copyright>
+        <copyright>Copyright (c) 2013-2014 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>jakarta.activation</groupId>
+        <artifactId>jakarta.activation-api</artifactId>
+        <version>1.2.2</version>
+        <url>https://github.com/eclipse-ee4j/jaf/jakarta.activation-api</url>
+        <license>
+            <name>EDL 1.0</name>
+        </license>
+        <copyright>Copyright (c) 2018 Oracle and/or its affiliates</copyright>
+        <copyright>Copyright (c) 1997, 2019 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.h2database</groupId>
+        <artifactId>h2</artifactId>
+        <version>2.1.214</version>
+        <url>https://h2database.com</url>
+        <license>
+            <name>EPL 1.0</name>
+        </license>
+        <copyright>Copyright 2004-2022 H2 Group.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>jakarta.annotation</groupId>
+        <artifactId>jakarta.annotation-api</artifactId>
+        <version>1.3.5</version>
+        <url>https://projects.eclipse.org/projects/ee4j.ca</url>
+        <license>
+            <name>EPL 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012, 2018 Oracle and/or its affiliates</copyright>
+        <copyright>Copyright (c) 2019 Eclipse Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>jakarta.transaction</groupId>
+        <artifactId>jakarta.transaction-api</artifactId>
+        <version>1.3.3</version>
+        <url>https://projects.eclipse.org/projects/ee4j.jta</url>
+        <license>
+            <name>EPL 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2012, 2018 Oracle and/or its affiliates</copyright>
+        <copyright>Copyright (c) 2019 Eclipse Foundation</copyright>
+        <copyright>Copyright (c) 2010, 2018 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>jakarta.xml.bind</groupId>
+        <artifactId>jakarta.xml.bind-api</artifactId>
+        <version>2.3.3</version>
+        <url>https://github.com/eclipse-ee4j/jaxb-api/jakarta.xml.bind-api</url>
+        <license>
+            <name>Eclipse Distribution License - v 1.0</name>
+        </license>
+        <copyright>Copyright (c) 1997, 2022 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>jakarta.persistence</groupId>
+        <artifactId>jakarta.persistence-api</artifactId>
+        <version>2.2.3</version>
+        <url>https://github.com/eclipse-ee4j/jpa-api</url>
+        <license>
+            <name>Eclipse Distribution License v. 1.0</name>
+        </license>
+        <copyright>Copyright (c) 2018, 2022 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.aspectj</groupId>
+        <artifactId>aspectjweaver</artifactId>
+        <version>1.9.7</version>
+        <url>https://www.eclipse.org/aspectj/</url>
+        <license>
+            <name>Eclipse Public License - v 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2002 Palo Alto Research Center, Incorporated (PARC).</copyright>
+        <copyright>Copyright (c) 2004 Contributors</copyright>
+        <copyright>Copyright (c) 2005 Contributors</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.eclipse.jdt</groupId>
+        <artifactId>ecj</artifactId>
+        <version>3.18.0</version>
+        <url>http://www.eclipse.org/jdt</url>
+        <license>
+            <name>Eclipse Public License - v 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2004, 2020 IBM Corporation and others.</copyright>
+        <copyright>Copyright (c) 2001 The Apache Software Foundation.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter</artifactId>
+        <version>5.8.2</version>
+        <url>https://junit.org/junit5/</url>
+        <license>
+            <name>Eclipse Public License v2.0</name>
+        </license>
+        <copyright>Copyright 2015-2021 the original author or authors.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-api</artifactId>
+        <version>5.8.2</version>
+        <url>https://junit.org/junit5/</url>
+        <license>
+            <name>Eclipse Public License v2.0</name>
+        </license>
+        <copyright>Copyright 2015-2021 the original author or authors.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-engine</artifactId>
+        <version>5.8.2</version>
+        <url>https://junit.org/junit5/</url>
+        <license>
+            <name>Eclipse Public License v2.0</name>
+        </license>
+        <copyright>Copyright 2015-2022 the original author or authors.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-params</artifactId>
+        <version>5.8.2</version>
+        <url>https://junit.org/junit5/</url>
+        <license>
+            <name>Eclipse Public License v2.0</name>
+        </license>
+        <copyright>Copyright 2015-2022 the original author or authors.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.junit.platform</groupId>
+        <artifactId>junit-platform-commons</artifactId>
+        <version>1.8.2</version>
+        <url>https://junit.org/junit5/</url>
+        <license>
+            <name>Eclipse Public License v2.0</name>
+        </license>
+        <copyright>Copyright 2015-2022 the original author or authors.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.junit.platform</groupId>
+        <artifactId>junit-platform-engine</artifactId>
+        <version>1.8.2</version>
+        <url>https://junit.org/junit5/</url>
+        <license>
+            <name>Eclipse Public License v2.0</name>
+        </license>
+        <copyright>Copyright 2015-2022 the original author or authors.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.junit.platform</groupId>
+        <artifactId>junit-platform-launcher</artifactId>
+        <version>1.8.2</version>
+        <url>https://junit.org/junit5/</url>
+        <license>
+            <name>Eclipse Public License v2.0</name>
+        </license>
+        <copyright>Copyright 2015-2022 the original author or authors.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.mchange</groupId>
+        <artifactId>c3p0</artifactId>
+        <version>0.9.5.4</version>
+        <url>https://github.com/swaldman/c3p0</url>
+        <license>
+            <name>Eclipse Public License, Version 1.0</name>
+        </license>
+        <copyright>Copyright (C) 2018 Machinery For Change, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.mchange</groupId>
+        <artifactId>mchange-commons-java</artifactId>
+        <version>0.2.15</version>
+        <url>https://github.com/swaldman/mchange-commons-java</url>
+        <license>
+            <name>Eclipse Public License, Version 1.0</name>
+        </license>
+        <copyright>Copyright (C) 2018 Machinery For Change, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.github.albfernandez</groupId>
+        <artifactId>juniversalchardet</artifactId>
+        <version>2.3.0</version>
+        <url>https://github.com/albfernandez/juniversalchardet</url>
+        <license>
+            <name>Mozilla Public License Version 1.1</name>
+        </license>
+        <copyright>(C) Copyright 2016-2017 Alberto Fernández &lt;infjaf@gmail.com&gt;</copyright>
+        <copyright>(C) Copyright 2006-2007 Kohei TAKETA &lt;k-tak@void.in&gt; (Java port)</copyright>
+        <copyright>(C) Copyright 2001 Netscape Communications Corporation.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.github.librepdf</groupId>
+        <artifactId>openpdf</artifactId>
+        <version>1.3.11</version>
+        <url>https://github.com/LibrePDF/OpenPDF/openpdf</url>
+        <license>
+            <name>GNU Lesser General Public License v2.1 or later</name>
+        </license>
+        <copyright>Copyright 1991 Ken Borgendale</copyright>
+        <copyright>Copyright (C) 1999-2008 by Bruno Lowagie</copyright>
+        <copyright>Copyright (c) 2005-2007 Bruno Lowagie, Carsten Hammer</copyright>
+        <copyright>Copyright (c) 2005-2007 by Johannes Schindelin</copyright>
+        <copyright>Copyright 2001, 2002 Paulo Soares</copyright>
+        <copyright>Copyright 2003-2009 Paulo Soares</copyright>
+        <copyright>Copyright 2002-2008 by Paulo Soares</copyright>
+        <copyright>Copyright 2004 Paulo Soares and Alexandru Carstoiu</copyright>
+        <copyright>Copyright 2008 by Kevin Day</copyright>
+        <copyright>Copyright 2002 by Phillip Pan</copyright>
+        <copyright>Copyright 2003 Galo Gimenez</copyright>
+        <copyright>Copyright 2002 Mark Thompson</copyright>
+        <copyright>Copyright 2002 by Jeremy Bowman &lt;bowmanjm@attbi.com&gt;</copyright>
+        <copyright>Copyright 2009 Martin Brunecky</copyright>
+        <copyright>Copyright (c) 2005, www.fontbox.org</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.xhtmlrenderer</groupId>
+        <artifactId>flying-saucer-core</artifactId>
+        <version>9.1.20</version>
+        <url>http://code.google.com/p/flying-saucer/flying-saucer-core/</url>
+        <license>
+            <name>GNU Lesser General Public License v2.1 or later</name>
+        </license>
+        <copyright>Copyright (C) 2015 Patrick Wright</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.xhtmlrenderer</groupId>
+        <artifactId>flying-saucer-pdf-openpdf</artifactId>
+        <version>9.1.20</version>
+        <url>http://code.google.com/p/flying-saucer/flying-saucer-pdf-openpdf/</url>
+        <license>
+            <name>GNU Lesser General Public License v2.1 or later</name>
+        </license>
+        <copyright>Copyright (c) 2015 Patrick Wright</copyright>
+    </artifact>
+    <artifact>
+        <groupId>net.sf.cssbox</groupId>
+        <artifactId>jstyleparser</artifactId>
+        <version>1.16-atlassian-1</version>
+        <url>http://cssbox.sourceforge.net/jstyleparser</url>
+        <license>
+            <name>GNU Lesser General Public License 3.0</name>
+        </license>
+        <copyright>Copyright (c) 2005-2007 Radek Burget</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.hibernate.common</groupId>
+        <artifactId>hibernate-commons-annotations</artifactId>
+        <version>5.1.2.Final</version>
+        <url>http://hibernate.org</url>
+        <license>
+            <name>GNU Library General Public License v2.1 or later</name>
+        </license>
+        <copyright>Copyright (c) 2008 Karel Piwko</copyright>
+        <copyright>Copyright (c) 2008-2019 Radek Burget</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.hibernate</groupId>
+        <artifactId>hibernate-core</artifactId>
+        <version>5.6.9.Final</version>
+        <url>https://hibernate.org/orm</url>
+        <license>
+            <name>GNU Library General Public License v2.1 or later</name>
+        </license>
+        <copyright>Copyright (c) 2008, 2020 Oracle and/or its affiliates</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.hibernate.orm</groupId>
+        <artifactId>hibernate-jpamodelgen</artifactId>
+        <version>6.0.0.Alpha8</version>
+        <url>http://hibernate.org/orm</url>
+        <license>
+            <name>GNU Library General Public License v2.1 or later</name>
+        </license>
+        <copyright>Copyright 2010, Red Hat Middleware LLC, and individual contributors</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.slf4j</groupId>
+        <artifactId>jul-to-slf4j</artifactId>
+        <version>1.7.36</version>
+        <url>http://www.slf4j.org</url>
+        <license>
+            <name>MIT License</name>
+        </license>
+        <copyright>Copyright (c) 2004-2017 QOS.ch</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-api</artifactId>
+        <version>1.7.36</version>
+        <url>http://www.slf4j.org</url>
+        <license>
+            <name>MIT License</name>
+        </license>
+        <copyright>Copyright (c) 2004-2017 QOS.ch</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apiguardian</groupId>
+        <artifactId>apiguardian-api</artifactId>
+        <version>1.1.2</version>
+        <url>https://github.com/apiguardian-team/apiguardian</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2002-2017 the original author or authors.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.opentest4j</groupId>
+        <artifactId>opentest4j</artifactId>
+        <version>1.2.0</version>
+        <url>https://github.com/ota4j-team/opentest4j</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2015-2018 the original author or authors.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>xml-apis</groupId>
+        <artifactId>xml-apis</artifactId>
+        <version>1.4.01</version>
+        <url>http://xml.apache.org/commons/components/external/</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) World Wide Web Consortium, (Massachusetts Institute of Technology, European Research
+            Consortium for Informatics and Mathematics, Keio University)
+        </copyright>
+        <copyright>copyright (c) 1999, IBM Corporation., http://www.ibm.com</copyright>
+        <copyright>Copyright (c) 2004 World Wide Web Consortium, (Massachusetts Institute of Technology, European
+            Research Consortium for Informatics and Mathematics, Keio University)
+        </copyright>
+        <copyright>copyright (c) 2000 World Wide Web Consortium, http://www.w3.org</copyright>
+        <copyright>Copyright 1999-2009 The Apache Software Foundation</copyright>
+        <copyright>copyright (c) 1999, Sun Microsystems., http://www.sun.com</copyright>
+    </artifact>
+    <artifact>
+        <groupId>net.minidev</groupId>
+        <artifactId>accessors-smart</artifactId>
+        <version>2.4.7</version>
+        <url>https://urielch.github.io/</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2011 JSON-SMART authors</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-digester3</artifactId>
+        <version>3.2</version>
+        <url>http://commons.apache.org/digester/</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2001-2011 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.apache.velocity</groupId>
+        <artifactId>velocity</artifactId>
+        <version>1.7</version>
+        <url>http://velocity.apache.org/engine/devel/</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2000-2007 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>commons-collections</groupId>
+        <artifactId>commons-collections</artifactId>
+        <version>3.2.1</version>
+        <url>http://commons.apache.org/collections/</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2001-2018 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>commons-lang</groupId>
+        <artifactId>commons-lang</artifactId>
+        <version>2.4</version>
+        <url>http://commons.apache.org/lang/</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2001-2016 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>commons-logging</groupId>
+        <artifactId>commons-logging</artifactId>
+        <version>1.1.1</version>
+        <url>http://commons.apache.org/logging</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2001-2016 The Apache Software Foundation</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.google.code.findbugs</groupId>
+        <artifactId>jsr305</artifactId>
+        <version>3.0.2</version>
+        <url>http://findbugs.sourceforge.net/</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (C) 2003-2007 University of Maryland</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.google.guava</groupId>
+        <artifactId>failureaccess</artifactId>
+        <version>1.0.1</version>
+        <url>https://github.com/google/guava/failureaccess</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (C) 2008 The Guava Authors</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.google.guava</groupId>
+        <artifactId>listenablefuture</artifactId>
+        <version>9999.0-empty-to-avoid-conflict-with-guava</version>
+        <url>https://github.com/google/guava/listenablefuture</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (C) 2008 The Guava Authors</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.zaxxer</groupId>
+        <artifactId>HikariCP</artifactId>
+        <version>4.0.3</version>
+        <url>https://github.com/brettwooldridge/HikariCP</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (C) 2013, 2014, 2017, 2019 Brett Wooldridge</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.google.j2objc</groupId>
+        <artifactId>j2objc-annotations</artifactId>
+        <version>1.3</version>
+        <url>https://github.com/google/j2objc/</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>COPYRIGHT: (C) Daniel Connelly and Google, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.jasypt</groupId>
+        <artifactId>jasypt</artifactId>
+        <version>1.9.3</version>
+        <url>http://www.jasypt.org</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 1995-2006 International Business Machines Corporation and others</copyright>
+        <copyright>Copyright (c) 2007-2010, The JASYPT team (http://www.jasypt.org)</copyright>
+    </artifact>
+    <artifact>
+        <groupId>net.minidev</groupId>
+        <artifactId>json-smart</artifactId>
+        <version>2.4.7</version>
+        <url>https://urielch.github.io/</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2011 JSON-SMART authors</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.github.cliftonlabs</groupId>
+        <artifactId>json-simple</artifactId>
+        <version>3.0.2</version>
+        <url>https://cliftonlabs.github.io/json-simple/</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2016 Clifton Labs</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.skyscreamer</groupId>
+        <artifactId>jsonassert</artifactId>
+        <version>1.5.0</version>
+        <url>https://github.com/skyscreamer/JSONassert</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2011 Skyscreamer</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.fasterxml.jackson.datatype</groupId>
+        <artifactId>jackson-datatype-jsr310</artifactId>
+        <version>2.13.3</version>
+        <url>https://github.com/FasterXML/jackson-modules-java8/jackson-datatype-jsr310</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2013, 2021, 2020 FasterXML.com</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.fasterxml.jackson.datatype</groupId>
+        <artifactId>jackson-datatype-jdk8</artifactId>
+        <version>2.13.3</version>
+        <url>https://github.com/FasterXML/jackson-modules-java8/jackson-datatype-jdk8</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2013, 2021, 2020 FasterXML.com</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-annotations</artifactId>
+        <version>2.13.3</version>
+        <url>http://github.com/FasterXML/jackson</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2013, 2021, 2020 FasterXML.com</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-core</artifactId>
+        <version>2.13.3</version>
+        <url>https://github.com/FasterXML/jackson-core</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2013, 2021, 2020 FasterXML.com</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.fasterxml.jackson.module</groupId>
+        <artifactId>jackson-module-parameter-names</artifactId>
+        <version>2.13.3</version>
+        <url>https://github.com/FasterXML/jackson-modules-java8/jackson-module-parameter-names</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2013, 2021, 2020 FasterXML.com</copyright>
+    </artifact>
+    <artifact>
+        <groupId>net.sourceforge.nekohtml</groupId>
+        <artifactId>nekohtml</artifactId>
+        <version>1.9.19</version>
+        <url>http://nekohtml.sourceforge.net/</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>(C) Copyright 2002-2009, Andy Clark, Marc Guillemot</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.zaxxer</groupId>
+        <artifactId>SparseBitSet</artifactId>
+        <version>1.2</version>
+        <url>https://github.com/brettwooldridge/SparseBitSet</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2012-2021 the original author or authors.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-databind</artifactId>
+        <version>2.13.3</version>
+        <url>http://github.com/FasterXML/jackson</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2013, 2021, 2020 FasterXML.com</copyright>
+    </artifact>
+    <artifact>
+        <groupId>io.micrometer</groupId>
+        <artifactId>micrometer-core</artifactId>
+        <version>1.9.1</version>
+        <url>https://github.com/micrometer-metrics/micrometer</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2010 Google Inc.</copyright>
+        <copyright>Copyright 2021 VMware, Inc.</copyright>
+        <copyright>Copyright 2002-2019 the original author or authors</copyright>
+        <copyright>Copyright 2013 The Netty Project</copyright>
+        <copyright>Copyright 2001-2019 The Apache Software Foundation</copyright>
+        <copyright>Copyright (c) 2017-Present VMware, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.xmlunit</groupId>
+        <artifactId>xmlunit-core</artifactId>
+        <version>2.9.0</version>
+        <url>https://www.xmlunit.org/</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright (c) 2001-2015, Jeff Martin, Tim Bacon</copyright>
+    </artifact>
+    <artifact>
+        <groupId>com.jayway.jsonpath</groupId>
+        <artifactId>json-path</artifactId>
+        <version>2.7.0</version>
+        <url>https://github.com/jayway/JsonPath</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2017 Jayway</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.quartz-scheduler</groupId>
+        <artifactId>quartz</artifactId>
+        <version>2.3.2</version>
+        <url>http://www.quartz-scheduler.org/quartz</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2001- currentYear, Terracotta, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.quartz-scheduler</groupId>
+        <artifactId>quartz-jobs</artifactId>
+        <version>2.3.2</version>
+        <url>http://www.quartz-scheduler.org/quartz-jobs</url>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+        </license>
+        <copyright>Copyright 2001- currentYear, Terracotta, Inc.</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.checkerframework</groupId>
+        <artifactId>checker-qual</artifactId>
+        <version>3.12.0</version>
+        <url>https://checkerframework.org</url>
+        <license>
+            <name>The MIT License</name>
+        </license>
+        <copyright>Copyright 2004-present by the Checker Framework</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.jsoup</groupId>
+        <artifactId>jsoup</artifactId>
+        <version>1.8.3</version>
+        <url>http://jsoup.org/</url>
+        <license>
+            <name>The MIT License</name>
+        </license>
+        <copyright>Copyright (c) 2009-2022 Jonathan Hedley &lt;https://jsoup.org/&gt;</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.mockito</groupId>
+        <artifactId>mockito-core</artifactId>
+        <version>4.5.1</version>
+        <url>https://github.com/mockito/mockito</url>
+        <license>
+            <name>The MIT License</name>
+        </license>
+        <copyright>Copyright (c) 2007 Mockito contributors</copyright>
+    </artifact>
+    <artifact>
+        <groupId>org.mockito</groupId>
+        <artifactId>mockito-junit-jupiter</artifactId>
+        <version>4.5.1</version>
+        <url>https://github.com/mockito/mockito</url>
+        <license>
+            <name>The MIT License</name>
+        </license>
+        <copyright>Copyright (c) 2007 Mockito contributors</copyright>
+    </artifact>
+    <artifact>
+        <groupId>javax.servlet</groupId>
+        <artifactId>jstl</artifactId>
+        <version>1.2</version>
+        <url>https://github.com/javaee/jstl-api</url>
+        <license>
+            <name>CDDL-1.1</name>
+        </license>
+        <copyright>Copyright (c) 1997-2018 Oracle and/or its affiliates</copyright>
+    </artifact>
+</copyrights-lookup>

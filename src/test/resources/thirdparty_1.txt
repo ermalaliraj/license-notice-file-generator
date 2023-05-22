@@ -1,0 +1,4 @@
+
+Lists of 172 third-party dependencies.
+     (BSD License) AntLR Parser Generator (antlr:antlr:2.7.7 - http://www.antlr.org/)
+     (BSD) ASM Core (asm:asmx:3.3.1 - http://asm.objectweb.org/asm/)
